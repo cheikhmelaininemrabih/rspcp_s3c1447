@@ -1,0 +1,7 @@
+=== Analysis for j6029_2.sm ===
+Makespan: 134
+Resource 1 Avg Utilization: 69.24% (Cap: 18)
+Resource 2 Avg Utilization: 76.87% (Cap: 17)
+Resource 3 Avg Utilization: 75.46% (Cap: 17)
+Resource 4 Avg Utilization: 77.01% (Cap: 16)
+Global Idle Time Slots (No active jobs): 0
